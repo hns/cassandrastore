@@ -1,0 +1,12 @@
+{
+    "name": "cassandrastore",
+    "version": "0.0.0",
+    "description": "Apache Cassandra Storage implemention",
+    "keywords": ["database", "storage", "cassandra"],
+    "author": "Hannes Wallnöfer (http://henso.com/) <hannes@helma.at>",
+    "jars": [
+        "jars/apache-cassandra-0.6.1.jar",
+        "jars/libthrift-r917130.jar",
+        "jars/uuid-3.1.jar"
+    ]
+}
