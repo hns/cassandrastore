@@ -14,8 +14,10 @@ UUID or Long type column names.
 
 We just started out, this library is seriously incomplete.
 
- * get() currently only retrievs full objects from standard column families
+ * get() currently only retrieves full objects from standard column families
  * remove() currently only removes full rows.
+
+Patches and contributions are very welcome.
 
 ### Installation
 
